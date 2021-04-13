@@ -4,4 +4,4 @@ const prepend = []
 
 const removeLast = []
 
-const removeFirst = [] 
+const removeFirst = []
